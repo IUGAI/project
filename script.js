@@ -13,7 +13,7 @@ let person = {name :"John"
               ,age : 25
               ,isMarried : false
 
-};
+}; 
 console.log(person.name)
 
 let arr = ['plum.png','orange.jpg','apple.bmp'];
